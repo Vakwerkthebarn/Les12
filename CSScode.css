@@ -19,13 +19,13 @@ footer{background-color: #212121; color:#FDF5E6; width: 100%; height: 200px;}
 #Wolfsdak{background-color:#FFFAFA; color: #006400}
 #Leien{background-color:#FFFFF0}
 
-#Bouwstijlen.jpg{width:"100" height"50"}
-#Dakbekledingsvormen.jpg{width:"100" height"50"}
-#Landelijk.jpg{width:"100" height"50"}
-#Dakpannen.jpg{width:"100" height"50"}
-#Modern.jpg{width:"100" height"50"}
-#EPDM.jpg{width:"100" height"50"}
-#Klassiek.jpg{width:"100" height"50"}
-#Leien.jpg{width:"100" height"50"}
+#Bouwstijlen.jpg{width:"30"; height:"15"}
+#Dakbekledingsvormen.jpg{width:"30"; height:"15"}
+#Landelijk.jpg{width:"30"; height:"15"}
+#Dakpannen.jpg{width:"30"; height:"15"}
+#Modern.jpg{width:"30"; height:"15"}
+#EPDM.jpg{width:"30"; height:"15"}
+#Klassiek.jpg{width:"30"; height:"15"}
+#Leien.jpg{width:"30"; height:"15"}
 
 #tabel{border: 1px;}
