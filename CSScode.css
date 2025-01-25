@@ -1,23 +1,22 @@
+header{background-color: #223300; color:#FDF5E6; width: 100%; height: 130px;}
+footer{background-color: #212121; color:#FDF5E6; width: 100%; height: 130px;}
 
-header{background-color: #223300; color:#FDF5E6; width: 100%; height: 200px;}
-footer{background-color: #212121; color:#FDF5E6; width: 100%; height: 200px;}
-
-#Houtsoorten{background-color: #FFE4E1; color: #2f4f4f}
-#Bouwstijlen{background-color: #FAEBD7} 
-#Dakvormen{background-color: #FAF0E6; color: #708090}
-#Dakbekleding{background-color: #DCDCDC}
-#Eik{background-color:#F5F5F5; color: #808080}
-#Landelijk{background-color:#FFF0F5}
-#Zadeldak{background-color:#FDF5E6; color: #778899}
-#Dakpannen{background-color:#F0F8FF}
-#Thermo-wood{background-color:#FFF5EE; color: #000000}
-#Modern{background-color:#F8F8FF}
-#Platdak{background-color:#F0FFF0; color: #008080}
-#EPDM{background-color:#FFFAF0}
-#Afromosia{background-color:#F0EFEF; color: #696969}
-#Klassiek{background-color:#F5EFFA}
-#Wolfsdak{background-color:#FFFAFA; color: #006400}
-#Leien{background-color:#FFFFF0}
+#Houtsoorten{background-color: #006400; color: #800000}
+#Bouwstijlen{background-color: #556B2F} 
+#Dakvormen{background-color: #808000; color: #A52A2A}
+#Dakbekleding{background-color: #6B8E23}
+#Eik{background-color:#008000; color: #A0522D}
+#Landelijk{background-color:#228B22}
+#Zadeldak{background-color:#2E8B57; color: #8B4513}
+#Dakpannen{background-color:#3CB371}
+#Thermo-wood{background-color:#32CD32; color: #D2691E}
+#Modern{background-color:#9ACD32}
+#Platdak{background-color:#00FF7F; color: #CD853F}
+#EPDM{background-color:#00FA9A}
+#Afromosia{background-color:#90EE90; color: #B8860B}
+#Klassiek{background-color:#98FB98}
+#Wolfsdak{background-color:#00FF00; color: #DAA520}
+#Leien{background-color:#7CFC00}
 
 img{width: 100px; height: 50px;}
 
